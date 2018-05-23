@@ -2,10 +2,10 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # bPay
-- project: bPay
+- project: AS3
   role: Contributor
   duration: 2016 &mdash; Present
-  url: "https://www.bpay.co.uk"
+  url: "https://www.barclaycard.co.uk"
   description: Contactles payments via a wearable device
 
 # GitHub Classroom
