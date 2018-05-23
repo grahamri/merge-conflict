@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # bPay
-- project: AS3
+- project: bPay
   role: Contributor
   duration: 2016 &mdash; Present
   url: "https://www.barclaycard.co.uk"
